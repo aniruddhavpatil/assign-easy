@@ -6,7 +6,7 @@ const Head = () => (
     textAlign: 'center',
   }}
   >
-    Online Classroom Logistics
+    Assign Easy
   </Heading>
 );
 export default Head;

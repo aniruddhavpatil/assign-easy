@@ -2,7 +2,7 @@ import React from 'react';
 import Head from './components/Heading';
 import Course from './components/Course';
 
-const OnlineClassroomLogistics = () => (
+const AssignEasy = () => (
   <div style={{
     margin: '10px 10px 10px 10px',
   }}
@@ -12,4 +12,4 @@ const OnlineClassroomLogistics = () => (
   </div>
 );
 
-export default OnlineClassroomLogistics;
+export default AssignEasy;

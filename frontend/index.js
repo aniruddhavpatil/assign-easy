@@ -1,9 +1,9 @@
 import { initializeBlock } from '@airtable/blocks/ui';
 import React from 'react';
-import OnlineClassroomLogistics from './OnlineClassroomLogistics';
+import AssignEasy from './AssignEasy';
 
 const App = () => (
-  <OnlineClassroomLogistics />
+  <AssignEasy />
 );
 
 initializeBlock(() => <App />);
