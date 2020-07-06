@@ -7,7 +7,7 @@ const OnlineClassroomLogistics = () => {
     return <div>
         <Head />
         <Course/>
-        <Temp />
+        {/* <Temp /> */}
     </div>;
 }
 
